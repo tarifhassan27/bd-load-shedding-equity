@@ -48,7 +48,7 @@ Everything in this repo is real, reproducible SQL work against public data — n
 
 **Data source:** [Structured Dataset of Daily Electricity Demand, Generation, Load Shedding, and Supply Constraints in Bangladesh (2019–2024)](https://doi.org/10.17632/x7r7wdb39k), Mendeley Data, Version 2 — 1,850 days across 9 divisions, sourced from BPDB (Bangladesh Power Development Board).
 
-**Full presentation deck:** [`deck/equity_deck.pdf`](deck/equity_deck.pdf)
+**Full presentation deck:** [`deck/Bangladesh Power Grid Equity.pdf`](deck/Bangladesh%20Power%20Grid%20Equity.pdf)
 
 **Tools:** PostgreSQL 18, DBeaver, Git
 
