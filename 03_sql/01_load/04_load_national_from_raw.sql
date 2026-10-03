@@ -1,4 +1,4 @@
--- sql/01_load/04_load_national_from_raw.sql
+-- 03_sql/01_load/04_load_national_from_raw.sql
 -- Phase 4.6: straight typed load of clean.daily_national from raw.daily_power_wide.
 -- Grain: one row per record_date. Expected: 1,850 rows.
 -- Result: Updated Rows = 1850. Confirmed correct.

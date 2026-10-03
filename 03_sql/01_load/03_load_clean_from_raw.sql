@@ -1,4 +1,4 @@
--- sql/01_load/03_load_clean_from_raw.sql
+-- 03_sql/01_load/03_load_clean_from_raw.sql
 -- Phase 4.4: reshape raw.daily_power_wide (wide) into clean.daily_division (long).
 -- Grain: one row per (record_date, division). Expected: 1,850 x 9 = 16,650 rows.
 -- Result: Updated Rows = 16650. Confirmed correct.

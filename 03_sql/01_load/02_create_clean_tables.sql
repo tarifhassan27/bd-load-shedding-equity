@@ -1,4 +1,4 @@
--- sql/01_load/02_create_clean_tables.sql
+-- 03_sql/01_load/02_create_clean_tables.sql
 -- Phase 4: typed, long-format table for divisional demand/supply/load,
 -- plus typed table for national (whole-country, one row per date) columns.
 

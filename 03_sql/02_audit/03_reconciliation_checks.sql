@@ -1,4 +1,4 @@
--- sql/02_audit/03_reconciliation_checks.sql
+-- 03_sql/02_audit/03_reconciliation_checks.sql
 -- Phase 4.5 + 4.6: reconciliation of clean schema loads against raw.daily_power_wide.
 
 -- Check 1: row count per division in clean.daily_division. Expected 1,850 each.

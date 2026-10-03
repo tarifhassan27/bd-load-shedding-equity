@@ -1,4 +1,4 @@
--- sql/04_equity/05_equity_analysis.sql
+-- 03_sql/04_equity/05_equity_analysis.sql
 -- Phase 5: the equity analysis (the core).
 -- Load-shedding as a percentage of each division's own demand, per division,
 -- per year. Tests whether the divisional ordering is stable over time.

@@ -1,4 +1,4 @@
--- sql/03_baseline/04_baseline_queries.sql
+-- 03_sql/03_baseline/04_baseline_queries.sql
 -- Phase 4.8: descriptive baseline. Total/mean load-shedding by year, by month,
 -- by division, and demand growth over time.
 
